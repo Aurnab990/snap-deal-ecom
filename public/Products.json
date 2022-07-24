@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "name":"Nike Men's Court Vision Low Sneaker",
+        "price": 420,
+        "img":"https://m.media-amazon.com/images/I/81r5BDuVz2L._AC_UL320_.jpg",
+        "stock": 20,
+        "seller":"Nick brand",
+        "shipping":1,
+        "quantity": 0
+
+    },
+    {
+        "id":2,
+        "name":"Nike Men's Air Monarch IV Cross Trainer",
+        "price": 420,
+        "img":"https://m.media-amazon.com/images/I/61dMj+mPSXL._AC_UL320_.jpg",
+        "stock": 20,
+        "seller":"Nick brand",
+        "shipping":1,
+        "quantity": 0
+
+    },
+    {
+        "id":3,
+        "name":"Nike Womens Dunk High WMNS DD1869 102 Football Grey - Size",
+        "price": 420,
+        "img":"https://m.media-amazon.com/images/I/51F8HlwvhTL._AC_UL320_.jpg",
+        "stock": 20,
+        "seller":"Nick brand",
+        "shipping":1,
+        "quantity": 0
+
+    },
+    {
+        "id":4,
+        "name":"Nike Mens Air Force 1 '07 DC2911",
+        "price": 420,
+        "img":"https://m.media-amazon.com/images/I/41CrGrc9oOS._AC_UL320_.jpg",
+        "stock": 20,
+        "seller":"Nick brand",
+        "shipping":1,
+        "quantity": 0
+
+    },
+    {
+        "id":5,
+        "name":"Nike Men's Air Jordan 1 Mid Se Shoes Dm1200",
+        "price": 420,
+        "img":"https://m.media-amazon.com/images/I/51OS19td9JL._AC_UL320_.jpg",
+        "stock": 20,
+        "seller":"Nick brand",
+        "shipping":1,
+        "quantity": 0
+
+    },
+    {
+        "id":6,
+        "name":"Nike Men's Killshot 2 Leather Sneaker",
+        "price": 420,
+        "img":"https://m.media-amazon.com/images/I/71bEY0bfGTL._AC_UL320_.jpg",
+        "stock": 20,
+        "seller":"Nick brand",
+        "shipping":1,
+        "quantity": 0
+
+    }
+]
