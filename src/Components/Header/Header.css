@@ -1,0 +1,28 @@
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF5A5A;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: system-ui;
+
+
+}
+.header img{
+    width: 150px;
+    height: 60px;
+    
+}
+.header a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+    font-family: system-ui;
+
+
+}
+.header a:hover{
+    color: black;
+}
